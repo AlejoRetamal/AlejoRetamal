@@ -3,7 +3,6 @@
  I'm Alejo, Systems Engineering student.
  One of my favorites Hobbies is Programmig! But programming isn't the only thing i can do.
  I can Drawn, Paint and Make Origami!
- If you want to see some of my "works" you can open the "Images" folder of this repository.
 ##
 <!--
 **AlejoRetamal/AlejoRetamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
