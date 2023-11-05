@@ -2,11 +2,7 @@
  I'm Alejo, Systems Engineering student.
  One of my favorites Hobbies is Programmig! But programming isn't the only thing i can do.
  I can Drawn, Paint and Make Origami!
- There are some of my works:
 
-[Img-1](https://drive.google.com/file/d/1eZAls11FwvGkUCCx6AcjLEO5v-4_eOxx/view)
-[img-2](https://drive.google.com/file/d/1escH9OXI0YmTZHy_OdphV7XH1oDufsrV/view)
-[img-2](https://drive.google.com/file/d/1kRBREIx0TPb_fqMuc18HalfmDvomoX9p/view)
 
 
 <!--
