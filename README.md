@@ -1,9 +1,12 @@
 ### Hey!
-##
+
+
+<div style="background-color: #ffcccb; padding: 20px;">
  I'm Alejo, Systems Engineering student.
  One of my favorites Hobbies is Programmig! But programming isn't the only thing i can do.
  I can Drawn, Paint and Make Origami!
-##
+</div>
+
 <!--
 **AlejoRetamal/AlejoRetamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
