@@ -9,7 +9,7 @@
     </p>
 </div>
 
-<span style="color:blue;">Este texto es azul</span>
+
 
 
 <!--
